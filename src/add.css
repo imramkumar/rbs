@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .cube h1 {
+    text-align: center;
+    margin-top: 22px;
+    margin-bottom: 22px;
+    color: gray;
+  }
+  
+  .cube {
+    width: 30%;
+    max-width: 100%;
+    border: 4px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px 40px;
+    box-sizing: border-box;
+  }
+  
+  /* .container form {
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  } */
+  
+  .btn {
+    text-decoration: center;
+  }
+  
